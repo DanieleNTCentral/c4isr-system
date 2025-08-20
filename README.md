@@ -109,6 +109,3 @@ Each service provides its own API documentation at `/docs` endpoint when running
 - Distributed tracing with OpenTelemetry
 - Centralized logging
 
-## License
-
-This project is for educational and demonstration purposes only.
